@@ -1,0 +1,36 @@
+--- Music Player ---
+1. Play Song
+2. Next Song
+3. Previous Song
+4. Show Playlist
+5. Exit
+Enter your choice: 1
+Title: Blinding Lights
+Artist: The Weeknd
+Genre: Pop
+Playing: Blinding Lights
+
+--- Music Player ---
+1. Play Song
+2. Next Song
+3. Previous Song
+4. Show Playlist
+5. Exit
+Enter your choice: 2
+Title: Shape of You
+Artist: Ed Sheeran
+Genre: Pop
+Playing: Shape of You
+
+--- Music Player ---
+1. Play Song
+2. Next Song
+3. Previous Song
+4. Show Playlist
+5. Exit
+Enter your choice: 4
+
+Playlist:
+1. Blinding Lights
+2. Shape of You
+3. Bohemian Rhapsody
